@@ -1,5 +1,5 @@
 
-# Isamar López Rodríguez
+# Isamar LÃ³pez RodrÃ­guez
 # 19/10/15
 
 # Bienvenida
@@ -103,7 +103,7 @@ print()
 # resultado final
 result = int((correctCounter/10)*100)
 
-# Si ganó o perdió.
+# Si ganÃ³ o perdiÃ³.
 if result >= 60:
     print ("Result: ", result,"%")
     print ("You are indeed smarter than a 5th grader!")
